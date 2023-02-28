@@ -1,0 +1,67 @@
+---
+title: "Fish Species Match Up"
+output: html_document
+date: "2023-02-28"
+---
+
+# Summary 
+
+Here I am simply matching fish data from the HIMARC database to their common names, which comes from NOAA data. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(janitor)
+library(here)
+
+
+# read in data sets and clean it up
+
+himarc <- read_csv(here("data/spp_ferl.csv")) %>% 
+  clean_names() %>% 
+  select(1:24)
+
+noaa_df <- read_csv(here("data/LIST_OF_FISH_SPECIES_04-21-2020.csv")) %>%
+  clean_names() %>% 
+  rename(species_code = species, taxon = taxonname) %>% 
+  select(1:11)
+
+
+# join them together
+
+himarc_commonnames <- left_join(himarc,noaa_df, by = "species_code")
+
+himarc_taxonnames <- left_join(himarc,noaa_df, by = "taxon")
+
+
+resource_fish <- himarc_commonnames %>% 
+  filter(resource_species == TRUE)
+
+resource_fish_na <- resource_fish %>% 
+  filter(is.na(commonname))
+
+
+# out of 129 species, 36 did not have matches in NOAAs database
+
+# what if we use taxon name instead? 
+
+himarc_taxonnames <- left_join(himarc,noaa_df, by = "taxon")
+
+resource_fish2 <- himarc_taxonnames %>% 
+  filter(resource_species == TRUE)
+
+resource_fish_na2 <- resource_fish2 %>% 
+  filter(is.na(commonname))
+
+
+# out of 129 matched species, 26 do not have matches
+# 15 have a species name, the rest do not
+
+resource_fish_common <- resource_fish2 %>% 
+  filter(!is.na(commonname)) %>%
+  select(taxon,commonname)
+
+print(resource_fish_common)
+```
+
