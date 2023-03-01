@@ -1,0 +1,27 @@
+ident,family.x,species_code.x,taxon,use4biomass,zoogeog,targeted,synonym,trophic7,trophic9,trophic5,consumer,endemic,mobility,max_size,max_size_wo_rms,max_size_fish_base,max_size_randall_2005,max_size_hoover1993_allen2012_iucn,max_size_touse,count_max_from_cred,aquarium_species,resource_species,harvested_species,objectid,species_code.y,oldtaxonname,commonname,family.y,order,class,phylum,commonfamily,commonfamilyall
+58,Scaridae,NA,Calotomus species,1,2,Y,NA,H,Hother,H,SECONDARY,0,S2,60,54,54,50,did_not_look,54,30,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,Carangidae,NA,Carangidae species,1,2,Y,NA,P,P,APEX,APEX,0,T,165,190,190,188,did_not_look,190,100,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,Carangidae,NA,Caranx species,1,2,Y,NA,P,P,APEX,APEX,0,T,165,170,170,165,did_not_look,170,10,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,Scaridae,NA,Chlorurus species,1,2,Y,NA,H,Hother,H,PRIMARY,0,S2,60,62,62,na,61,62,30,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,Carangidae,DESP,Decapterus species,0,1,Y,NA,Z,Z,Z,SECONDARY,0,T,35,46,46,32,did_not_look,46,30.1,FALSE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,Elopidae,NA,Elops hawaiensis,0,1,N,NA,MI,MI,S,SECONDARY,0,T,150,120,120,105,did_not_look,120,30.1,FALSE,TRUE,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+190,Priacanthidae,HECR,Heteropriacanthus cruentatus,1,1,Y,NA,Z,Z,Z,SECONDARY,0,R,25,51,51,32,did_not_look,51,5,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+193,Holocentridae,NA,Holocentridae species,1,2,Y,NA,MI,MI,S,SECONDARY,0,R,35,51,51,45,did_not_look,51,25,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,Labridae,XYBA,Iniistius baldwini,1,4,Y,NA,MI,MI,S,SECONDARY,0,R,25,21,21,na,na,21,20.1,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+197,Labridae,XYNV,Iniistius niveilatus,1,2,Y,NA,MI,MI,S,SECONDARY,0,R,30,24,24,na,na,24,20.1,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,Labridae,NA,Iniistius species,1,2,Y,NA,MI,MI,S,SECONDARY,0,R,40,42,42,35,did_not_look,42,20,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204.1,Kuhliidae,KUXE,Kuhlia xenura,1,6,Y,NA,Z,Z,Z,SECONDARY,1,R,23,23,23,did_not_look,did_not_look,23,300,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,Kyphosidae,KYBI,Kyphosus bigibbus,1,5,Y,NA,H,Hbrow,H,PRIMARY,0,S2,60,75,75,75,did_not_look,75,30.1,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207.1,Kyphosidae,KYOC,Kyphosus ocyurus,1,2,Y,NA,H,Hother,H,PRIMARY,0,S2,59,na,59,did_not_look,did_not_look,59,30,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,Kyphosidae,KYSP,Kyphosus species,1,2,Y,NA,H,Hother,H,PRIMARY,0,S2,45,75,75,75,did_not_look,75,30,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,Mullidae,NA,Mullidae species,1,2,Y,NA,MI,MI,S,SECONDARY,0,S2,50,51,51,50,did_not_look,51,50,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+237,Holocentridae,NA,Myripristis species,1,2,Y,NA,Z,Z,Z,SECONDARY,0,R,22,30,30,30,did_not_look,30,25,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,Acanthuridae,NASP,Naso species,1,2,Y,NA,H,Hother,H,PRIMARY,0,S2,75,100,100,100,did_not_look,100,50,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,Mugilidae,NELE,Neomyxus leuciscus,1,6,Y,NA,D,D,S,SECONDARY,0,T,35,46,46,35,did_not_look,46,20.1,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,Holocentridae,NA,Neoniphon species,1,2,Y,NA,MI,MI,S,SECONDARY,0,R,23,32,32,30,did_not_look,32,25,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274.1,Mullidae,PASP,Parupeneus species,1,2,Y,NA,MI,MI,S,SECONDARY,0,S1,55,51,51,50,did_not_look,51,50,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,Priacanthidae,PRSP,Priacanthus species,1,8,Y,NA,Z,Z,Z,SECONDARY,0,R,40,51,51,40,did_not_look,51,5,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,Holocentridae,NA,Sargocentron species,1,2,Y,NA,MI,MI,S,SECONDARY,0,R,50,51,51,45,did_not_look,51,25,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+318,Scaridae,SCSP,Scarus species,1,2,Y,NA,H,Hother,H,PRIMARY,0,S2,45,70,70,70,did_not_look,70,30,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372.5,Scombridae,SCOM,Scombridae species,0,1,Y,NA,P,P,APEX,APEX,0,T,100,110,110,na,na,110,50,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,Carangidae,NA,Seriola rivoliana,1,1,Y,NA,P,P,APEX,APEX,0,T,100,160,160,120,did_not_look,160,20.1,FALSE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

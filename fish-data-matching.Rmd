@@ -62,6 +62,12 @@ resource_fish_common <- resource_fish2 %>%
   filter(!is.na(commonname)) %>%
   select(taxon,commonname)
 
+write_csv(resource_fish_common,
+          here("outputs/resource_fish_commonames.csv"))
+
+write_csv(resource_fish_na2,
+          here("outputs/resource_fish_na.csv"))
+
 print(resource_fish_common)
 ```
 
