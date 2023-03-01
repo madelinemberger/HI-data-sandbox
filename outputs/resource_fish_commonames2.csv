@@ -1,0 +1,104 @@
+species_code,taxon,commonname
+ABAB,Abudefduf abdominalis,Green damselfish
+ACAC,Acanthurus achilles,Achilles tang
+ACBL,Acanthurus blochii,Ringtail surgeonfish
+ACDU,Acanthurus dussumieri,Eyestripe surgeonfish
+ACGU,Acanthurus guttatus,Whitespotted surgeonfish
+ACLE,Acanthurus leucopareius,Whitebar surgeonfish
+ACNR,Acanthurus nigroris,Bluelined surgeonfish
+ACOL,Acanthurus olivaceus,Orangespot surgeonfish
+ACTR,Acanthurus triostegus,Convict surgeonfish
+ACXA,Acanthurus xanthopterus,Yellowfin surgeonfish
+ALGL,Albula glossodonta,Roundjaw bonefish
+NA,Alectis ciliaris,African pompano
+ALSC,Aluterus scriptus,Scrawled filefish
+ANCU,Anampses cuvier,Pearl wrasse
+APFU,Aphareus furca,Small toothed jobfish
+APVI,Aprion virescens,Green jobfish
+BOBI,Bodianus albotaeniatus,Hawaiian Hogfish
+CACA,Calotomus carolinus,Carolines parrotfish
+CAZO,Calotomus zonarchus,Yellowbar parrot
+CAFE,Carangoides ferdau,Blue trevally
+CAOR,Carangoides orthogrammus,Island trevally
+CAIG,Caranx ignobilis,Giant trevally
+CALU,Caranx lugubris,Black jack
+CAME,Caranx melampygus,Bluefin trevally
+CASE,Caranx sexfasciatus,Bigeye trevally
+CEAR,Cephalopholis argus,Peacock hind
+CHCH,Chanos chanos,Milkfish
+CHPE,Chlorurus perspicillatus,Spectacled parrotfish
+CHSO,Chlorurus spilurus,Daisy parrotfish
+COFL,Coris flavovittata,Yellowstripe coris
+CTHA,Ctenochaetus hawaiiensis,Chevron tang
+CTST,Ctenochaetus strigosus,Spotted surgeonfish
+DEMA,Decapterus macarellus,Mackerel scad
+ELBI,Elagatis bipinnulata,Rainbow runner
+EUAF,Euthynnus affinis,Kawakawa
+FICO,Fistularia commersonii,Bluespotted cornetfish
+GNSP,Gnathanodon speciosus,Golden trevally
+EPQU,Hyporthodus quernus,Hawaiian grouper
+XYAN,Iniistius aneitensis,Yellowblotch razorfish
+XYPA,Iniistius pavo,Peacock wrasse
+XYUM,Iniistius umbrilatus,Razor wrasse fish
+KAPE,Katsuwonus pelamis,Skipjack tuna
+KUSA,Kuhlia sandvicensis,Hawaiian flagtail
+KYCI,Kyphosus cinerascens,Blue seachub
+KYHA,Kyphosus hawaiiensis,Hawaiian chub
+NA,Kyphosus sandwicensis,Pacific chub
+KYVA,Kyphosus vaigiensis,Brassy chub
+LUFU,Lutjanus fulvus,Blacktail snapper
+LUGI,Lutjanus gibbus,Humpback red snapper
+LUKA,Lutjanus kasmira,Common bluestripe snapper
+MIST,Microcanthus strigatus,Stripey
+MOGR,Monotaxis grandoculis,Humpnose big-eye bream
+MUCE,Mugil cephalus,Flathead mullet
+MUFL,Mulloidichthys flavolineatus,Yellowstripe goatfish
+NA,Mulloidichthys mimicus,Mimic goatfish
+MUPF,Mulloidichthys pfluegeri,Orange goatfish
+MUVA,Mulloidichthys vanicolensis,Yellowfin goatfish
+MYAM,Myripristis amaena,Brick soldierfish
+MYBE,Myripristis berndti,Blotcheye soldierfish
+MYCH,Myripristis chryseres,Yellowfin soldierfish
+MYKU,Myripristis kuntee,Shoulderbar soldierfish
+MYVI,Myripristis vittata,Whitetip soldierfish
+NAAN,Naso annulatus,Whitemargin unicornfish
+NABR,Naso brevirostris,Spotted unicornfish
+NA,Naso caesius,Gray unicornfish
+NAHE,Naso hexacanthus,Sleek unicornfish
+NALI,Naso lituratus,Orangespine unicornfish
+NA,Naso maculatus,Spotted unicornfish
+NAUN,Naso unicornis,Bluespine unicornfish
+NEAU,Neoniphon aurolineatus,Yellowstriped squirrelfish
+NESA,Neoniphon sammara,Sammara squirrelfish
+OPPU,Oplegnathus punctatus,Spotted knifejaw
+OXUN,Oxycheilinus unifasciatus,Ringtail maori wrasse
+NA,Parupeneus chrysonemus,Yellowbarbel goatfish
+PACY,Parupeneus cyclostomus,Goldsaddle goatfish
+PAIN,Parupeneus insularis,Twosaddle goatfish
+PAMU,Parupeneus multifasciatus,Manybar goatfish
+PAPL,Parupeneus pleurostigma,Sidespot goatfish
+PAPO,Parupeneus porphyreus,Whitesaddle goatfish
+POSE,Polydactylus sexfilis,Sixfinger threadfin
+PRME,Priacanthus meeki,Hawaiian bigeye
+PROL,Pristilepis oligolepis,Spinyface soldier
+PSDE,Pseudocaranx dentex,White trevally
+SAOR,Sarda orientalis,Striped bonito
+SADI,Sargocentron diadema,Crown squirrelfish
+SAEN,Sargocentron ensifer,Yellow-stripedsquirrelfish
+SAPU,Sargocentron punctatissimum,Speckled squirrelfish
+SASP,Sargocentron spiniferum,Sabre squirrelfish
+SATI,Sargocentron tiere,Blue lined squirrelfish
+SAXA,Sargocentron xantherythrum,Hawaiian squirrelfish
+SCDU,Scarus dubius,Regal parrot
+SCPS,Scarus psittacus,Common parrotfish
+SCRU,Scarus rubroviolaceus,Ember parrotfish
+SCLY,Scomberoides lysan,Doublespotted queenfish
+SECR,Selar crumenophthalmus,Bigeye scad
+SEDU,Seriola dumerili,Greater amberjack
+SPBA,Sphyraena barracuda,Great barracuda
+NA,Sphyraena helleri,Heller's barracuda
+THBA,Thalassoma ballieui,Blacktail wrasse
+THPU,Thalassoma purpureum,Surge wrasse
+TYCR,Tylosurus crocodilus,Houndneedlefish
+UPAR,Upeneus taeniopterus,Finstripe goatfish
+ZEVE,Zebrasoma veliferum,Sailfin tang

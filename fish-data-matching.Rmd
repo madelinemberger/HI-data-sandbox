@@ -60,10 +60,10 @@ resource_fish_na2 <- resource_fish2 %>%
 
 resource_fish_common <- resource_fish2 %>% 
   filter(!is.na(commonname)) %>%
-  select(taxon,commonname)
+  select(species_code = species_code.x,taxon,commonname)
 
 write_csv(resource_fish_common,
-          here("outputs/resource_fish_commonames.csv"))
+          here("outputs/resource_fish_commonames2.csv"))
 
 write_csv(resource_fish_na2,
           here("outputs/resource_fish_na.csv"))
